@@ -71,4 +71,4 @@ exports.postJobForCompany = function (req, res, next) {
             return res.json(company);
         })
     })
-}
+};
